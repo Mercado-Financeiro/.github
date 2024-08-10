@@ -6,3 +6,5 @@ Organização voltada para a organização e manutenção do conhecimento adquir
 - Estudar o comportamento do mercado.
 - Aplicar o conhecimento teórico.
 - Automação de sinais para entradas no mercado financeiro, buscando obter lucro.
+
+![alt text](image.png)
