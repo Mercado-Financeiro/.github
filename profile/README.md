@@ -1,6 +1,9 @@
 # Iniciação Ciêncitifica - Mercado Financeiro PUC-Goiás
 
-Organização voltada para a organização e manutenção do conhecimento adiquiridos pelos alunos.
+Organização voltada para a organização e manutenção do conhecimento adquiridos pelos alunos de Computação da PUC-Goiás.
 
 ## Objetivo
-desenvolver uma ferramenta que sinaliza o momento de entrada no mercado
+- Realizar pesquisas sobre ativos mercado do mercado financeiro.
+- Estudar o comportamento do mercado.
+- Aplicar o conhecimento teorico.
+- Automação de sinais para entradas no mercado financeiro, buscando obter lucro.
